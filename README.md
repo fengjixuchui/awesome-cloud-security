@@ -51,7 +51,9 @@ A curated list of awesome cloud security related resources.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
+* [CloudQuery](https://github.com/cloudquery/cloudquery): Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
+* [consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access
 * [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper): Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [dftimewolf](https://github.com/log2timeline/dftimewolf): A multi-cloud framework for orchestrating forensic collection, processing and data export.
@@ -60,6 +62,7 @@ A curated list of awesome cloud security related resources.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
 * [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
+* [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
@@ -102,6 +105,7 @@ A curated list of awesome cloud security related resources.
 * [Leonidas](https://github.com/FSecureLABS/leonidas): A framework for executing attacker actions in the cloud.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
+* [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
 
 ## Native tools
 * AWS
@@ -168,6 +172,7 @@ A curated list of awesome cloud security related resources.
 2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
 4. [AWS security workshops](https://github.com/aws-samples/aws-security-workshops)
+5. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3): Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
